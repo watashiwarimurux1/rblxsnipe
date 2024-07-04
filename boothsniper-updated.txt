@@ -16,7 +16,7 @@ getgenv().Config = {
             Price = 1000,
             Type = "Misc"
         },        
-	{
+	    {
             Item = "Party Box",
             Price = 500,
             Type = "Misc"
@@ -48,31 +48,31 @@ getgenv().Config = {
             tn = 1, -- Minimum Enchant/Potion Tier Number, Set to any number for Exlcusive Enchants,
             Type = "Enchant"
         },        
-	{
+	    {
             Item = "Treasure Hunter Potion",
             Price = 40,
             tn = 1, -- Minimum Enchant/Potion Tier Number, Set to any number for Exlcusive Enchants,
             Type = "Potion"
         },        
-	{
+	    {
             Item = "Lucky Eggs Potion",
             Price = 20,
             tn = 1, -- Minimum Enchant/Potion Tier Number, Set to any number for Exlcusive Enchants,
             Type = "Potion"
         },        
-	{
+	    {
             Item = "Diamonds Potion",
             Price = 50,
             tn = 1, -- Minimum Enchant/Potion Tier Number, Set to any number for Exlcusive Enchants,
             Type = "Potion"
         },        
-	{
+	    {
             Item = "Damage Potion Potion",
             Price = 50,
             tn = 1, -- Minimum Enchant/Potion Tier Number, Set to any number for Exlcusive Enchants,
             Type = "Potion"
         },        
-	{
+	    {
             Item = "Coins Potion",
             Price = 20,
             tn = 1, -- Minimum Enchant/Potion Tier Number, Set to any number for Exlcusive Enchants,
